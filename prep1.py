@@ -7,3 +7,4 @@ def fibonacci(n):
 fib_numbers = fibonacci(5)
 for num in fib_numbers:
     print(num)
+    print ("Go Brewers!")
